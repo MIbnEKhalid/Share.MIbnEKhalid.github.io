@@ -5,13 +5,13 @@
   force = true 
 
  [[redirects]]
-  from = "https://unilib.ibnekhalid.me/*"
-  to = "https://unilib.mbktechstudio.com/:splat"
+  from = "https://share.ibnekhalid.me/*"
+  to = "https://share.mbktechstudio.com/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://unilib.mbktech.xyz/*"
-  to = "https://unilib.mbktechstudio.com/:splat"
+  from = "https://share.mbktech.xyz/*"
+  to = "https://share.mbktechstudio.com/:splat"
   status = 301
   force = true
